@@ -1,6 +1,6 @@
 ### Greetings 🎅
 
-I'm a ✨ _Full-Stack Developer_ ✨ working [@htmlburger](https://github.com/htmlburger) ([2create studio](https://2create.io)).
+I'm a _full stack developer_ working [@htmlburger](https://github.com/htmlburger) ([2create studio](https://2create.io)).
 
 NOW
 
