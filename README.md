@@ -1,6 +1,6 @@
 ### Greetings 🎅
 
-I'm a _software engineer_ [@Automattic](https://automattic.com/).
+I'm a software engineer [@Automattic](https://automattic.com/).
 
 TECH
 
